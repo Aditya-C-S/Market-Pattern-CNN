@@ -25,8 +25,8 @@ This approach is validated by peer-reviewed research (Kim & Kim 2019; Lin et al.
 
 | Model | Test Accuracy | vs Naive Baseline (59%) |
 |---|---|---|
-| ResNet18 (Transfer Learning) | ~XX% | +XX% |
-| VGG16 (Transfer Learning) | ~XX% | +XX% |
+| ResNet18 (Transfer Learning) | 65% | 59% |
+| VGG16 (Transfer Learning) | 62% | 59% |
 | Random baseline | 33.3% | — |
 | Naive baseline (always SIDEWAYS) | 59.0% | — |
 
